@@ -36,6 +36,8 @@ Overview of possible usable crates for transparencies
   - [askama: Type-safe, compiled Jinja-like templates for Rust](https://github.com/transparencies/askama)
 
   - [format_xml: Minimal compiletime templating for XML in Rust!](https://github.com/transparencies/format_xml)
+  
+  - [funcy: Simple function based template engine](https://github.com/transparencies/funcy)
 
 
 ## Configuration
@@ -137,6 +139,8 @@ Overview of possible usable crates for transparencies
   - [rouille-web: Web framework in Rust](https://github.com/transparencies/rouille-web)
 
   - [tauri: Build smaller, faster, and more secure desktop applications with a web frontend](https://github.com/transparencies/tauri)
+  
+  - [seed: Rust framework for creating web apps](https://github.com/transparencies/seed)
 
 ## Client-side
 
