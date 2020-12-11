@@ -39,6 +39,7 @@ Overview of possible usable crates for transparencies
   
   - [funcy: Simple function based template engine](https://github.com/transparencies/funcy)
 
+  - [hagen: static website generator](https://github.com/transparencies/hagen)
 
 ## Configuration
 
