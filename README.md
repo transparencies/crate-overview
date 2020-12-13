@@ -167,6 +167,8 @@ Overview of possible usable crates for transparencies
   - [egui: Immediate mode GUI written in Rust, made for WASM](https://github.com/transparencies/egui)
 
   - [sauron-native: Truly cross platform, truly native. multiple backend GUI for rust](https://github.com/transparencies/sauron-native)
+  
+  - [web-view: Rust bindings for webview, a tiny cross-platform library to render web-based GUIs for desktop applications](https://github.com/transparencies/web-view)
 
 ## I10n
 
