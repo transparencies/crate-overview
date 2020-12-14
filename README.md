@@ -27,6 +27,16 @@ Overview of possible usable crates for transparencies
 
 ## Templating
 
+### General
+
+  - [Library Overview on "Are we web yet"](https://www.arewewebyet.org/topics/templating)
+  
+  - [Reddit discussion of pors and cons](https://www.reddit.com/r/rust/comments/ab5tg2/pros_and_cons_of_rust_web_template_engines)
+
+  - [Benchmarks: Collected benchmarks for templating crates written in Rust](https://github.com/transparencies/template-benchmarks-rs)
+
+### Libraries & Tools
+
   - [handlebars-rust: Rust templating with Handlebars](https://github.com/transparencies/handlebars-rust)
   
   - [horrorshow: A macro-based html builder for rust](https://github.com/transparencies/horrorshow-rs)
@@ -36,6 +46,10 @@ Overview of possible usable crates for transparencies
   - [maud: Compile-time HTML templates for Rust](https://github.com/transparencies/maud)
   
   - [tera: A template engine for Rust based on Jinja2/Django](https://github.com/transparencies/tera)
+  
+  - [liquid: Liquid templating for Rust](https://github.com/transparencies/liquid-rust)
+  
+  - [stpl: Super templates (html, etc.) with plain-Rust; no macros, no textfiles](https://github.com/transparencies/stpl)
 
   - [TinyTemplate: A small, lightweight template engine](https://github.com/transparencies/TinyTemplate)
 
