@@ -28,12 +28,18 @@ Overview of possible usable crates for transparencies
 ## Templating
 
   - [handlebars-rust: Rust templating with Handlebars](https://github.com/transparencies/handlebars-rust)
+  
+  - [horrorshow: A macro-based html builder for rust](https://github.com/transparencies/horrorshow-rs)
+  
+  - [askama: Type-safe, compiled Jinja-like templates for Rust](https://github.com/transparencies/askama)
+  
+  - [maud: Compile-time HTML templates for Rust](https://github.com/transparencies/maud)
+  
+  - [tera: A template engine for Rust based on Jinja2/Django](https://github.com/transparencies/tera)
 
   - [TinyTemplate: A small, lightweight template engine](https://github.com/transparencies/TinyTemplate)
 
   - [lol-html: Low output latency streaming HTML parser/rewriter with CSS selector-based API](https://github.com/transparencies/lol-html)
-
-  - [askama: Type-safe, compiled Jinja-like templates for Rust](https://github.com/transparencies/askama)
 
   - [format_xml: Minimal compiletime templating for XML in Rust!](https://github.com/transparencies/format_xml)
   
