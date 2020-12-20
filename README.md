@@ -9,6 +9,9 @@ Overview of possible usable crates for transparencies
 
 ### Twitch
   - [twitchchat: interface to the irc portion of Twitch's chat](https://github.com/transparencies/twitchchat)
+  
+### Github
+  - [octocrab: A modern, extensible GitHub API Client for Rust](https://github.com/transparencies/octocrab-githubapi)
 
 
 ## Parsing
