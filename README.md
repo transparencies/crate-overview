@@ -8,9 +8,11 @@ Overview of possible usable crates for transparencies
   - [Awesome_APIs: A collection of APIs](https://github.com/transparencies/Awesome_APIs)
 
 ### Twitch
+
   - [twitchchat: interface to the irc portion of Twitch's chat](https://github.com/transparencies/twitchchat)
   
 ### Github
+
   - [octocrab: A modern, extensible GitHub API Client for Rust](https://github.com/transparencies/octocrab-githubapi)
 
 
@@ -67,6 +69,7 @@ Overview of possible usable crates for transparencies
 ## Configuration
 
 ### Notation
+
   - [RON: Rusty Object Notation](https://github.com/transparencies/ron)
 
   - [nickel: Cheap configuration language](https://github.com/transparencies/nickel)
@@ -104,6 +107,7 @@ Overview of possible usable crates for transparencies
 
 
 ## HTTP-Clients
+
   - [queryst: Rust query string parser with nesting support](https://github.com/transparencies/queryst)
 
   - [graphql-client: Typed, correct GraphQL requests and responses in Rust](https://github.com/transparencies/graphql-client)
@@ -115,6 +119,7 @@ Overview of possible usable crates for transparencies
   - [rust-client: HTTP-client library for debugging purposes](https://github.com/transparencies/rust-client)
   
 ### Mocking
+
   - [wiremock: HTTP mocking to test Rust applications](https://github.com/transparencies/wiremock-rs)
 
 ## Server-side
@@ -177,15 +182,8 @@ Overview of possible usable crates for transparencies
 
 ### UI
 
-#### General
-
-  - [tui-rs: Build terminal user interfaces and dashboards using Rust](https://github.com/transparencies/tui-rs)
-
-  - [indicatif: A command line progress reporting library for Rust](https://github.com/transparencies/indicatif)
-
-  - [dialoguer: Rust utility library for nice command line prompts and similar things](https://github.com/transparencies/dialoguer)
-
 #### GUI
+
   - [iced: A cross-platform GUI library for Rust, inspired by Elm](https://github.com/transparencies/iced-gui)
 
   - [druid: A data-first Rust-native UI design toolkit](https://github.com/transparencies/druid)
@@ -199,3 +197,13 @@ Overview of possible usable crates for transparencies
 ## I10n
 
   - [fluent-rs: Rust implementation of Project Fluent](https://github.com/transparencies/fluent-rs)
+
+## CLI
+
+  - [indicatif: A command line progress reporting library for Rust](https://github.com/transparencies/indicatif)
+
+  - [dialoguer: Rust utility library for nice command line prompts and similar things](https://github.com/transparencies/dialoguer)
+
+  - [tui-rs: Build terminal user interfaces and dashboards using Rust](https://github.com/transparencies/tui-rs)
+
+  - [linya: Simple concurrent progress bars](https://github.com/transparencies/linya)
