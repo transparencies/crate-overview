@@ -113,6 +113,9 @@ Overview of possible usable crates for transparencies
   - [rest-client: a simple rest client based on reqwest](https://github.com/transparencies/rest-client)
 
   - [rust-client: HTTP-client library for debugging purposes](https://github.com/transparencies/rust-client)
+  
+### Mocking
+  - [wiremock: HTTP mocking to test Rust applications](https://github.com/transparencies/wiremock-rs)
 
 ## Server-side
 
