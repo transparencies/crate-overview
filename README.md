@@ -15,6 +15,9 @@ Overview of possible usable crates for transparencies
 
   - [octocrab: A modern, extensible GitHub API Client for Rust](https://github.com/transparencies/octocrab-githubapi)
 
+### Discord
+
+  - [serenity: A Rust library for the Discord API](https://github.com/transparencies/serenity)
 
 ## Parsing
 
