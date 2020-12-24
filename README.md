@@ -160,6 +160,8 @@ Overview of possible usable crates for transparencies
 ### Web frameworks
 
   - [rocket: A web framework for Rust](https://github.com/transparencies/Rocket)
+  
+  - [rocket-cors: Cross-origin resource sharing (CORS) for Rocket.rs applications](https://github.com/transparencies/rocket_cors)
 
   - [cargo-template-rocket-base: A base cargo-template for building a Rocket application](https://github.com/transparencies/cargo-template-rocket-base)
 
