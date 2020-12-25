@@ -129,6 +129,10 @@ Overview of possible usable crates for transparencies
 
 ### General
 
+  - [validator: Simple validation for Rust structs](https://github.com/transparencies/validator)
+  
+  - [gRPC: native gRPC client & server implementation with async/await support](https://github.com/transparencies/tonic)
+
   - [trunk: Build, bundle & ship your Rust WASM application to the web](https://github.com/transparencies/trunk)
 
   - [mockito: HTTP mocking for Rust](https://github.com/transparencies/mockito)
