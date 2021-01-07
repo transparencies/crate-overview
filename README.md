@@ -51,6 +51,8 @@ Overview of possible usable crates for transparencies
   
   - [askama: Type-safe, compiled Jinja-like templates for Rust](https://github.com/transparencies/askama)
   
+  - [sailfish: Simple, small, and extremely fast template engine for Rust](https://github.com/transparencies/sailfish)
+  
   - [maud: Compile-time HTML templates for Rust](https://github.com/transparencies/maud)
   
   - [tera: A template engine for Rust based on Jinja2/Django](https://github.com/transparencies/tera)
