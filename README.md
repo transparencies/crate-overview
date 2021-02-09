@@ -70,6 +70,8 @@ Overview of possible usable crates for transparencies
   - [funcy: Simple function based template engine](https://github.com/transparencies/funcy)
 
   - [hagen: static website generator](https://github.com/transparencies/hagen)
+  
+  - [sheets4: Google Sheets API](https://github.com/Byron/google-apis-rs/tree/master/gen/sheets4)
 
 ## Configuration
 
