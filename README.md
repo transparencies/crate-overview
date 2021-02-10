@@ -72,6 +72,8 @@ Overview of possible usable crates for transparencies
   - [hagen: static website generator](https://github.com/transparencies/hagen)
   
   - [sheets4: Google Sheets API](https://github.com/Byron/google-apis-rs/tree/master/gen/sheets4)
+  
+  - [serde_with: Custom de/serialization functions for Rust's serde using the with-annotation](https://github.com/transparencies/serde_with)
 
 ## Configuration
 
